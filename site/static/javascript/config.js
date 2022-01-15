@@ -1,0 +1,1 @@
+var SubDomain = 'sns'; var SiteID = 'E11B3818-7475-4486-B2F8-DD89338D185A'; var host = 'https://api.eraconnect.net';
